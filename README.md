@@ -1,0 +1,2 @@
+# inbot
+lite
